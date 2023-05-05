@@ -1,0 +1,4 @@
+#define MAX_AUTOR 50
+#define MAX_TITULO 100
+#define MAX_LIVROS 1000
+
